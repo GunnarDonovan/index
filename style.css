@@ -17,4 +17,18 @@
 	background-color: aqua
 		
 }
+#about{
+	align-content: center;
+	text-align: center;
+	background-color: red;
+	font-size: 35px;
+	
+	
+}
+#signup{
+	align-content: center;
+	text-align: center;
+	background-color: aqua;
+	
+}
 
