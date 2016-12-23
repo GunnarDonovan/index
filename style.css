@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#Banner{
+	align-items: center;
+	font-size: 60px;
+	text-decoration-color: red;
+	background-color: aqua;
+	text-align: center;
+	text-emphasis-color: red
+	
+}
+
+#nav-bar{
+	align-content: center;
+	text-align: center;
+	background-color: aqua
+		
+}
+
