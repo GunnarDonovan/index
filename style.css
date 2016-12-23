@@ -29,6 +29,22 @@
 	align-content: center;
 	text-align: center;
 	background-color: aqua;
+	font-size: 25px;
 	
+
+}
+#links{
+	align-content: flex-end;
+	text-align: left;
+	background-color: red;
+	font-size: 30px;
+	
+	
+}
+#guide{
+	align-content: center;
+	text-align: center;
+	background-color: yellow;
+	font-size: 25px;
 }
 
